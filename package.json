@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "rollup --config rollup.config.js"
+  },
+  "dependencies": {
+    "@inrupt/solid-common-vocab": "^0.5.3"
+  }
+}
